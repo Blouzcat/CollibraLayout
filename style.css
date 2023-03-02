@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&family=Gothic+A1&display=swap');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Gothic A1';
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+/* Header */
+header {
+	background-color: #002B40;
+	position: relative;
+	width: 1440px;
+	height: 686px;
+}
+
+.header-darkblue {
+	background-color: #032736;
+	width: 1440px;
+	height: 151px;
+	position: absolute;
+	bottom: 0px;
+	display: flex;
+}
+
+.green {
+	position: absolute;
+	width: 568px;
+	height: 701px;
+	left: 872px;
+	top: 88px;
+}
+.header-blue {
+	position: absolute;
+	top: 200px;
+	left: 136px;
+}
+.blue-text {
+	color: white;
+	font-size: 68px;
+	font-weight: 400;
+	line-height: 72px;
+}
+
+.blue-text-green {
+	color: #72BF00;
+	font-size: 69px;
+}
+
+.blue-text-down {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	color: white;
+	padding-top: 55px;
+	font-family: 'Amiri';
+	padding-left: 48px;
+}
+
+.darkblue-left {
+	position: relative;
+	left: 136px;
+	top: 48px;
+}
+.darkblue-left-text {
+	padding-top: 7px;
+	color: white;
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 26px;
+}
+.darkblue-right-text {
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 24px;
+	position: relative;
+	left: 309px;
+	top: 68px;
+}
+
+.darkblue-r-t-a {
+		color: white;
+}
+/* Section 1 */
+
+.section1 {
+	position: relative;
+	top: 259px;
+	display: flex;
+	width: 1440px;
+}
+
+.man {
+	position: relative;
+	width: 662px;
+	height: 462px;
+	left: -10px;
+}
+
+.section1-text {
+	position: relative;
+	left: 90px;
+	top: 94px;
+	color: #002B40;
+	width: 535px;
+}
+
+.section1-up {
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 14px;
+	color: #5E7177;
+}
+
+.section1-header {
+	font-weight: 400;
+	font-size: 35px;
+	line-height: 40px;
+	padding-top: 15px;
+}
+
+.sect1-h-down {
+	font-size: 34px;
+}
+
+.section1-art {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	padding-top: 29px;
+	font-family: 'Amiri';
+}
+
+.section1-down {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	padding-top: 26px;
+}
