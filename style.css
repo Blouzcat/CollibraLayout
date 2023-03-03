@@ -379,7 +379,7 @@ header {
 /* Section 5 */
 .section5 {
 	position: relative;
-	top: 728px;
+	top: 821px;
 	height: 609px;
 	left: 0px;
 	background: #EFF2F3;
@@ -444,4 +444,74 @@ header {
 	line-height: 24px;
 	color: #002B40;
 	padding-top: 31px;
+}
+
+/* Section 6 */
+
+.section6 {
+	height: 669px;
+	display: flex;
+	position: relative;
+	top: 825px;
+}
+
+.sec6-image {
+	width: 368px;
+	height: 89px;
+	padding-left: 190px;
+	padding-top: 299px;
+	padding-right: 137px;
+}
+
+.sect6-right {
+	width: 691px;
+	padding-top: 127px;
+}
+
+.sect6-up {
+	font-weight: 400;
+	font-size: 11px;
+	line-height: 30px;
+	color: #002B40;
+}
+.sect6-art {
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 38px;
+	color: #002B40;
+	padding-top: 16px;
+}
+
+.sect6-man {
+	display: flex;
+	width: 412px;
+	padding-top: 44px;
+}
+
+.sect6-man-image {
+	width: 80px;
+	height: 80px;
+}
+.sect6-man-text {
+	padding-left: 24px;
+}
+.name {
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 20px;
+	color: #002B40;
+}
+
+.sect6-man-art {
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 20px;
+	color: #5E7177;
+}
+
+.sect6-brands {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 34px;
+	width: 615px;
 }
