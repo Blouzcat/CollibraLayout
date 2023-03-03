@@ -273,3 +273,105 @@ header {
 	font-weight: 400;
 	font-size: 15px;
 }
+
+.dopgray {
+	position: absolute;
+	width: 1440px;
+	height: 216px;
+	left: 0px;
+	top: 1303px;
+	background: #EFF2F3;
+}
+/* Section 4 */
+
+.section4 {
+	position: absolute;
+	top: 791px;
+	display: flex;
+	width: 1188px;
+	height: 728px;
+	left: 126px;
+}
+.sect4-green {
+	width: 356px;
+	height: 728px;
+	background: #00755F;
+}
+
+.sect4-gray {
+	width: 832px;
+	height: 728px;
+	background: #DFE6E8;
+}
+
+.sect4-green-header {
+	padding-top: 62px;
+	padding-left: 56px;
+	font-weight: 400;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+
+.sect4-darkgreen {
+	width: 356px;
+	height: 62px;
+	padding-left: 56px;
+	margin-top: 19px;
+	background: #005D4C;
+	display: flex;
+	align-items: center;
+}
+
+.green-image {
+	width: 30px;
+	height: 30px;
+}
+.sect4-green-p {
+	display: flex;
+	padding-left: 56px;
+	height: 62px;
+	display: flex;
+	align-items: center;
+}
+.sect4-green-text {
+	font-weight: 400;
+	font-size: 16px;
+	color: #FFFFFF;
+	padding-left: 16px;
+}
+
+.sect4-gray-text {
+	position: relative;
+	top: 62px;
+	left: 106px;
+	width: 615px;
+}
+
+.sect4-header {
+	font-weight: 400;
+	font-size: 23px;
+	color: #002B40;
+}
+
+.sect4-art {
+	font-family: 'Amiri';
+	font-weight: 400;
+	font-size: 18px;
+	color: #002B40;
+	padding-top: 29px;
+	line-height: 27px;
+}
+
+.sect4-down {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	color: #002B40;
+	padding-top: 16px;
+}
+
+.sect4-gray-image {
+	position: relative;
+	top: 106px;
+	left: 106px;
+}
