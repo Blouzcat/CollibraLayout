@@ -375,3 +375,73 @@ header {
 	top: 106px;
 	left: 106px;
 }
+
+/* Section 5 */
+.section5 {
+	position: relative;
+	top: 728px;
+	height: 609px;
+	left: 0px;
+	background: #EFF2F3;
+}
+.sect5-cards {
+	display: flex;
+	justify-content: space-between;
+	padding-left: 136px;
+	padding-right: 136px;
+	padding-top: 160px;
+}
+
+.sect5-card {
+	background-color: white;
+	width: 376px;
+	height: 349px;
+	padding-top: 32px;
+}
+.sect5-up {
+	display: flex;
+	padding-left: 38px;
+}
+
+.sect5-text {
+	padding-top: 35px;
+	width: 282px;
+	padding-left: 41px;
+}
+.sect5-image {
+	width: 48px;
+	height: 48px;
+}
+.sect5-header {
+	font-weight: 400;
+	font-size: 33px;
+	line-height: 40px;
+	color: #00755F;
+	padding-left: 16px;
+	display: flex;
+	align-items: center;
+}
+
+.sect5-card-up {
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 20px;
+	color: #002B40;
+}
+
+.sect5-card-art {
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	color: #002B40;
+	padding-top: 21px;
+	font-family: 'Amiri';
+	height: 135px;
+}
+.sect5-card-down {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	color: #002B40;
+	padding-top: 31px;
+}
