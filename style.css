@@ -145,3 +145,85 @@ header {
 	line-height: 24px;
 	padding-top: 26px;
 }
+
+
+/* Section 2 */
+
+.section2 {
+	position: relative;
+	top: 466px;
+	padding-left: 126px;
+	padding-right: 126px;
+}
+.sect2-btn {
+	width: 156px;
+	height: 35px;
+	background: #EFF2F3;
+	border: none;
+	color: #5E7177;
+	font-size: 12px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sect2-text {
+	font-weight: 400;
+	font-size: 36px;
+	color: #002B40;
+	padding-top: 23px;
+}
+
+.sect2-green {
+	color: #00755F;
+}
+
+.sect2-cards {
+	padding-top: 87px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.sect2-card {
+	width: 321px;
+	height: 186px;
+	display: flex;
+}
+
+.sect2-card-img {
+	width: 64px;
+	height: 64px;
+}
+
+.sect2-card-text {
+	width: 247px;
+	padding-left: 10px;
+	padding-top: 17px;
+}
+
+.card-h {
+	font-weight: 400;
+	font-size: 17px;
+	line-height: 20px;
+	color: #002B40;
+}
+
+.card-art {
+	font-family: 'Amiri';
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 27px;
+	color: #002B40;
+	padding-top: 19px;
+}
+
+.learn-more-div {
+	padding-top: 52px;
+}
+
+.learn-more {
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 24px;
+	color: #002B40;
+}
