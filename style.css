@@ -515,3 +515,52 @@ header {
 	padding-top: 34px;
 	width: 615px;
 }
+
+/* Section 7 */
+.section7 {
+	width: 1440px;
+	height: 639px;
+	background: #DFE6E8;
+	position: relative;
+	top: 825px;
+	display: flex;
+}
+
+.sect7-image {
+	padding-top: 160px;
+	width: 642px;
+	height: 399px;
+}
+
+.sect7-text {
+	padding-top: 225px;
+	padding-left: 130px;
+}
+
+.sect7-header {
+	font-weight: 400;
+	font-size: 34px;
+	line-height: 40px;
+	color: #002B40;
+}
+
+.sect7-art {
+	font-family: 'Amiri';
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 30px;
+	color: #002B40;
+	padding-top: 20px;
+}
+.sect7-btn {
+	width: 177px;
+	height: 39px;
+	background: #72BF00;
+	margin-top: 18px;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 15px;
+	color: #002B40;
+	text-align: center;
+	border: none;
+}
